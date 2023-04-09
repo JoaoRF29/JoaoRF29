@@ -1,7 +1,6 @@
 ### Olá, Eu sou o João Rafael👋
 
 - 🌱 Atualmente em formação pela Cubos Academy.
-- 📫 Pode me contatar pelo email: freirejoaorafael9@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoRF29&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/JoaoRF29/github-readme-stats)
 
