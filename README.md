@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente em formação pela Cubos Academy.
 
-![JoaoRF29's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoRF29&show_icons=true&theme=radical)
+![JoaoRF29's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoRF29&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Joao-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
