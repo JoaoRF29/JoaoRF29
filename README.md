@@ -2,9 +2,7 @@
 
 - 🌱 Atualmente em formação pela Cubos Academy.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoRF29&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/JoaoRF29/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRF29&theme=transparent&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/JoaoRF29/github-readme-stats)
+![JoaoRF29's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoRF29&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Joao-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
