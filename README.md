@@ -1,6 +1,6 @@
 ### Olá, Eu sou o João Rafael👋
 
-- 🌱 Atualmente em formação pela Cubos Academy.
+- 🌱 Atualmente em formação pela @cubos-academy.
 
 ![JoaoRF29's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoRF29&show_icons=true&theme=transparent)
 
